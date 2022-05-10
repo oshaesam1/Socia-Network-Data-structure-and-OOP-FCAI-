@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1626472094 source:c:\users\hp\desktop\data project\linked list\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+
+1626487788 source:d:\fci\level 2\second year _term 2\data structures\project\linked list\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+
+1626643295 source:d:\fci\level 2\second year _term 2\data structures\project\linked list - copy - copy\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+
+1626716548 source:d:\fci\level 2\second year _term 2\data structures\project\finalcode\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+
